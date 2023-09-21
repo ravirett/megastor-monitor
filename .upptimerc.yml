@@ -1,26 +1,43 @@
 owner: ravirett
 repo: megastor-monitor
+user-agent: ravirett
+
+assignees:
+  - ravirett
 
 sites:
-  #- name: Plex
-  #  url: https://plex.redacted-designs.com
+  - name: Portainer
+    url: $PORTAINER_URL
   - name: Minecraft
-    url: https://minecraft.redacted-designs.com
+    url: $MINECRAFT_URL
+  - name: PMS
+    url: $PLEX_URL
+  - name: Tautulli
+    url: $TAU_URL
   - name: Ombi
-    url: https://ombi.redacted-designs.com
+    url: $OMBI_URL
   - name: Sonarr
-    url: https://ombi.redacted-designs.com
+    url: $SONARR_URL
   - name: Radarr
-    url: https://ombi.redacted-designs.com
+    url: $RADARR_URL
+  -name: Jackett
+    url: $JACKETT_URL
   - name: Sab
-    url: https://ombi.redacted-designs.com
+    url: $SAB_URL
+  - name: QBT
+    url: $QBT_URL
 
 status-website:
+  metaTags:
+    - name: "robots"
+      content: "noindex"
+  robotsText: "User-agent: * \n Disallow: /"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.redacted-designs.com
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # cname: status.redacted-designs.com
+  baseUrl: /megastor-monitor
+  theme: night
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "[REDACTED] Service Status"
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
