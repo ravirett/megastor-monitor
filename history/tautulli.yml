@@ -1,7 +1,7 @@
 url: $TAU_URL
 status: down
-code: 502
-responseTime: 264
-lastUpdated: 2023-09-21T02:33:32.748Z
+code: 400
+responseTime: 280
+lastUpdated: 2023-09-21T23:14:45.029Z
 startTime: 2023-09-21T02:33:32.378Z
 generator: Upptime <https://github.com/upptime/upptime>
