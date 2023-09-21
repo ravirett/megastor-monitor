@@ -20,7 +20,7 @@ sites:
     url: $SONARR_URL
   - name: Radarr
     url: $RADARR_URL
-  -name: Jackett
+  - name: Jackett
     url: $JACKETT_URL
   - name: Sab
     url: $SAB_URL
