@@ -1,7 +1,7 @@
-url: https://ombi.redacted-designs.com
+url: $RADARR_URL
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-21T01:51:03.534Z
+code: 401
+responseTime: 322
+lastUpdated: 2023-09-21T02:33:39.395Z
 startTime: 2023-09-21T01:19:11.640Z
 generator: Upptime <https://github.com/upptime/upptime>
