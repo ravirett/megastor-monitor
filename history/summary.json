@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 61,
+      "2023-10-24": 401,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -110,7 +110,7 @@
     "timeMonth": 257,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2023-10-24": 61,
+      "2023-10-24": 401,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -195,10 +195,10 @@
     "url": "$RADARR_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.55%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.75%",
     "time": 211,
@@ -207,6 +207,7 @@
     "timeMonth": 209,
     "timeYear": 211,
     "dailyMinutesDown": {
+      "2023-10-24": 1,
       "2023-10-23": 16,
       "2023-10-19": 29,
       "2023-10-14": 16,
@@ -218,9 +219,9 @@
     "url": "$JACKETT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jackett",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
@@ -230,6 +231,7 @@
     "timeMonth": 309,
     "timeYear": 300,
     "dailyMinutesDown": {
+      "2023-10-24": 0,
       "2023-10-19": 62,
       "2023-09-21": 4
     }
@@ -272,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 61,
+      "2023-10-24": 401,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
