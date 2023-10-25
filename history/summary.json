@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-25": 61,
+      "2023-10-25": 237,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
@@ -111,7 +111,7 @@
     "timeMonth": 251,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2023-10-25": 61,
+      "2023-10-25": 237,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
@@ -198,11 +198,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radarr",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.76%",
     "time": 213,
     "timeDay": 246,
     "timeWeek": 216,
@@ -220,10 +220,10 @@
     "url": "$JACKETT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jackett",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 302,
@@ -232,6 +232,7 @@
     "timeMonth": 310,
     "timeYear": 302,
     "dailyMinutesDown": {
+      "2023-10-25": 1,
       "2023-10-19": 62,
       "2023-09-21": 4
     }
@@ -241,9 +242,9 @@
     "url": "$SAB_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.83%",
@@ -253,6 +254,7 @@
     "timeMonth": 259,
     "timeYear": 245,
     "dailyMinutesDown": {
+      "2023-10-25": 0,
       "2023-10-19": 38,
       "2023-09-21": 47
     }
@@ -274,7 +276,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-25": 61,
+      "2023-10-25": 237,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
